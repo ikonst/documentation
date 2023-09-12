@@ -44,11 +44,11 @@ Number of spans having malformed fields that had to be altered in order for the 
 
 `datadog.trace_agent.obfuscation.sql_cache.hits`
 : **Type**: Count<br>
-Number of Get calls where a value was found for the corresponding key.
+Number of GET calls where a value was found for the corresponding key.
 
 `datadog.trace_agent.obfuscation.sql_cache.misses`
 : **Type**: Count<br>
-Number of Get calls where a value was not found for the corresponding key.
+Number of GET calls where a value was not found for the corresponding key.
 
 `datadog.trace_agent.panic`
 : **Type**: Gauge<br>
